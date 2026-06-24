@@ -38,18 +38,17 @@ By introducing rigorous **dynamic Z-score scaling** on the training slices and a
 ### 1. The 1997 Super El Niño Stress-Test
 After applying Z-score scaling, the model accurately captured the 1997 Super El Niño development from neutral spring conditions, perfectly matching both peak timing (November 1997) and the subsequent 1998 thermal decay phase.
 
-`![1997 Backtest](plots/03_scaled_backtest_1997.png)`
+![1997 Backtest](plots/03_scaled_backtest_1997.png)
 
 ### 2. The 2015 "Godzilla" El Niño Stress-Test
 Tested on the 21st-century satellite-era Super El Niño (**May 2015** cut-off), the production engine nailed the peak timing (November 2015) and morphology, proving universal mathematical robustness across different decades.
 
-`![2015 Backtest](plots/04_scaled_backtest_2015.png)`
+![2015 Backtest](plots/04_scaled_backtest_2015.png)
 
 ### 3. Production Run: Current 2026 Forecast
 Initialized with real-time data, the stabilized production engine projects a **historic Hyper-ENSO event** peaking near the $+4.0^\circ\text{C}$ threshold in late autumn/winter 2026, followed by a structurally sound thermal discharge in 2027.
 
-`![2026 Forecast](plots/05_production_forecast_2026.png)`
-
+![2026 Forecast](plots/05_production_forecast_2026.png)
 ---
 
 ## 🛠️ Repository Structure
