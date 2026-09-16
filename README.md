@@ -115,3 +115,10 @@ source("enso_forecast_production.R")
 
     Stochasticity: Perturbed initial state (Xnoisy​∼N(0,0.122)) + cumulative random walk (RWt​∼∑N(0,0.042))
 
+## Licenza
+
+Questo progetto è distribuito con licenza **GNU General Public License v3.0** (GPLv3).
+
+Copyright (C) 2026 Enrico Pozzi
+
+Consulta il file [LICENSE](./LICENSE) presente nel repository o visita il sito ufficiale della [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) per il testo completo.
