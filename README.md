@@ -1,3 +1,4 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Production DMS-MLP Scaled ENSO Forecast Engine
 
 An advanced, robust machine learning framework designed to predict Sea Surface Temperature (SST) anomalies in the **NINO3.4 region (ENSO)** up to 12 months (or 18 weeks) ahead. This repository documents a rigorous engineering journey: transitioning from a fragile autoregressive baseline to a rock-solid, thermodynamically-forced **Direct Multi-Step (DMS) Multi-Layer Perceptron (MLP)** stabilized via dynamic Z-score scaling and stochastic ensemble generation.
